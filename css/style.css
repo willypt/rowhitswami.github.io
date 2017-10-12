@@ -33,11 +33,6 @@ p {
   color: #fff !important;
 }
 
-a {
-  font-family: 'Playfair Display', serif !important;
-  color: #dae0e5 !important;
-}
-
 @keyframes fadeIn {
   0% {opacity: 0;}
   50% {opacity: 0.5;}
